@@ -139,6 +139,7 @@ namespace FileChecker
             {
                 openFileDialog.Multiselect = true;
                 openFileDialog.Filter = "All files (*.*)|*.*"; // 必要に応じてフィルターを設定
+                openFileDialog.InitialDirectory = selectedFolderPath; // 開始パスを selectedFolderpathに
 
                 if (openFileDialog.ShowDialog() == DialogResult.OK)
                 {
