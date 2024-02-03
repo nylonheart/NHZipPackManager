@@ -26,6 +26,6 @@ ZIPボタンでパッケージを制作します。
 
 ## **ライセンス**
 
-ZipPack ManagerはMITライセンスの下で公開されています。このライセンスにより、個人または商用目的での使用、変更、配布が許可されます。詳細については、同梱のLICENSEファイルを参照してください。
+ZipPack ManagerはMITライセンスの下で公開されています。このライセンスにより、個人または商用目的での使用、変更、配布が許可されます。
 
 https://thinkable-entrance-994.notion.site/NHZipPackManager-90fd165e20ca421d8987164e0ff031c6
