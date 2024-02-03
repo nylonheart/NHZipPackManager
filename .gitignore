@@ -1,0 +1,14 @@
+bin/
+obj/
+*.user
+*.suo
+*.psd
+*.exe
+*.cache
+*.dll
+*.log
+*.pdb
+FileChecker/Code_For_GPT.txt
+ReleaseData/
+RelatedFils/
+.vs/

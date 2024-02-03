@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHZipPackManager", "FileChecker\NHZipPackManager.csproj", "{13BDBBE7-D765-4824-91DB-05628E757A17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{57373E3D-24EC-4F07-AE43-172035BBFFFA}"
+	ProjectSection(SolutionItems) = preProject
+		roundPanel.cs = roundPanel.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13BDBBE7-D765-4824-91DB-05628E757A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BDBBE7-D765-4824-91DB-05628E757A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BDBBE7-D765-4824-91DB-05628E757A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BDBBE7-D765-4824-91DB-05628E757A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49661157-2E48-46DB-A797-07C01106AE05}
+	EndGlobalSection
+EndGlobal
