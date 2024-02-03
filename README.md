@@ -1,8 +1,10 @@
-https://thinkable-entrance-994.notion.site/NHZipPackManager-90fd165e20ca421d8987164e0ff031c6
-
 # **NHZipPack Manager**
 
 NHZipPack Managerは、ZIPで配布するリソースを簡単に管理できるツールです。このアプリは、指定したフォルダの最新ファイルの確認、リソースリストの整理、サイズのチェック、圧縮を一箇所で行えるように設計されています。開発者から一般ユーザーまで、誰でも自由に使えるようにMITライセンスの下で公開されています。
+
+##ダウンロード
+
+https://github.com/nylonheart/NHZipPackManager/releases/tag/1.0.2024.02.03
 
 ## **特徴**
 
@@ -25,3 +27,5 @@ ZIPボタンでパッケージを制作します。
 ## **ライセンス**
 
 ZipPack ManagerはMITライセンスの下で公開されています。このライセンスにより、個人または商用目的での使用、変更、配布が許可されます。詳細については、同梱のLICENSEファイルを参照してください。
+
+https://thinkable-entrance-994.notion.site/NHZipPackManager-90fd165e20ca421d8987164e0ff031c6
